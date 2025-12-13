@@ -3,7 +3,7 @@ google sans flex but its rounded and has five weights
 # What is this font #
 so it's basically a material 3 expressive font i used Google Sans Flex use fonttools to make it Round to 100 yea.
 # Copyright # 
-there's no copyright you can use it everywhere free. 
+there's no copyright you can use it everywhere **free.** 
 # DMCA TAKE DOWN #
 it wouldnt be taken down if one of google staff don't see it.
 but if one does this will get a dmca take down. so use it fast.

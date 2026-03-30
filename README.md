@@ -21,4 +21,11 @@ git clone https://github.com/tiwa244/Google-Sans-Flex-Rounded.git
 # CREDITS #
 **Base Font Original Owner** - opensource@google.com 
 
-**Mod**- @Lozerodev@gmail.com
+**Font Editor**- @Lozerodev@gmail.com
+
+
+
+> Important!!
+> I do not own google's font nor assets
+> all credits goes to the google designers
+> !!!

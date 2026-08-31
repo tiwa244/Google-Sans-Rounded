@@ -14,7 +14,7 @@ This project is open source and released under **OFL** There Should Be None.
 [![Download Git 2.51.0 ARM64](https://img.shields.io/badge/Download-Git%202.51.0%20ARM64-E11D21?style=for-the-badge&logo=git&logoColor=white)](https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.1/Git-2.51.0-arm64.exe)
 
 # Download #
-Must Have **Git** installed or download this **repo..**
+Must Have **Git** installed to download this **repo..**
 ```
 git clone https://github.com/tiwa244/Google-Sans-Flex-Rounded.git
 ```
